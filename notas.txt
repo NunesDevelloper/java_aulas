@@ -1,0 +1,3 @@
+para complilar e executar as aulas:
+javac App.java
+java App
