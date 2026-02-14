@@ -1,6 +1,6 @@
 //importação de bibliotecas
-import java.util.ArrayList;
 import java.util.Scanner; 
+import java.util.ArrayList;
 import java.util.List;
 
 /*class inicia*/
